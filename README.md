@@ -6,4 +6,4 @@ parent: Contributing to Conduit
 ---
 <!-- markdownlint-disable MD025 -->
 # Design 1
-![Design 1](../Design/01.png)
+![Design 1](./Design/01.png)
